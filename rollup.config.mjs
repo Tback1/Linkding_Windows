@@ -5,7 +5,7 @@ import terser from '@rollup/plugin-terser';
 const production = !process.env.ROLLUP_WATCH;
 
 export default {
-  input: 'bookmarks/frontend/index.js',
+  input: 'bookmarks/frontend/index.js',11
   output: {
     sourcemap: true,
     format: 'iife',
