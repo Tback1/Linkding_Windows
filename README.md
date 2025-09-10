@@ -22,4 +22,4 @@ W:\myLinkding\linkding>npm run build
 
 ```python
 "..\python\python.exe" start.py
-
+```
