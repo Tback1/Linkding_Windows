@@ -19,5 +19,5 @@ npm run build
 ## 测试运行
 
 ```python
-"..\python\python.exe" start.py
+..\python\python.exe start.py
 ```
