@@ -6,8 +6,8 @@ python可以用安装版本也可以用内嵌版本，请根据自己需求自�
 
 ```JavaScript
 //更新尤其需要执行 npm更新包
-W:\myLinkding\linkding>npm install
-W:\myLinkding\linkding>npm run build
+npm install
+npm run build
 ```
 
 ## 收集静态文件
